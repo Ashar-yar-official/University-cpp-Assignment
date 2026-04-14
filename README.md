@@ -58,3 +58,35 @@ Sales Commission Rate
 Up to $10,000 		10%
 $10,000 to $15,000 	15%
 Over $15,000 		20%
+
+Question 16:  A bank charges $10 per month plus the following check fees for a commercial checking account: $.10 each for fewer than 20 checks $.08 each for 20-39 checks $.06 each for 40-59 checks $.04 each for 60 or more checks The bank also charges an extra $15 if the balance of the account falls below $400 (before any check fees are applied). Write a program that asks for the beginning balance and the number of checks written. Compute and display the bank's service fees for the month.
+
+Question 17. Write a program that ask user which type of headphone he/she wants to buy. display the correct price of the selected type of headphone.
+Number	Headphone Type	Price (Rate)
+1	Noise Canceling	249.00
+2	Wireless	199.00
+3	Wired Budget	49.00
+
+Question 18. The health club offers three monthly rates:
+•	Standard Adult: Rs. 40.00 / month
+•	Child (under 12): Rs. 20.00 / month
+•	Senior Citizen: Rs. 30.00 / month
+•  Display a numbered list of choices (1-4) for the user:
+1.	Standard Adult Membership
+2.	Child Membership
+3.	Senior Citizen Membership
+4.	Quit the Program
+•  User Input: * Ask the user to enter their choice (1, 2, 3, or 4).
+•	If they choose 1, 2, or 3, ask them for the number of months they wish to join.
+Print the total amount they have to pay.
+
+Question 19: A mobile phone service provider has three different data plans for its customers: 
+Package 1: For $39.99 per month, 4 gigabytes are provided. Additional data costs $10 per gigabyte. Package 2: For $59.99 per month, 8 gigabytes are provided. Additional data costs $5 per gigabyte. Package 3: For $69.99 per month, unlimited data is provided. Write a program that calculates a customer's monthly bill. It should ask which package the customer has purchased and how many gigabytes were used. It should then display the total amount due.
+sample output:
+Enter the package purchased (1, 2, or 3): 1
+Enter the number of gigabytes used: 6
+The total amount due is: $59.99
+
+Question 20:  Write a program that asks the user to enter a number of seconds. There are 60 seconds in a minute. If the number of seconds entered by the user is greater than or equal to 60, the program should display the number of minutes in that many seconds. There are 3,600 seconds in an hour. If the number of seconds entered by the user is greater than or equal to 3,600, the program should display the number of hours in that many seconds. There are 86,400 seconds in a day. If the number of seconds entered by the user is greater than or equal to 86,400, the program should display the number of days in that many second
+
+
